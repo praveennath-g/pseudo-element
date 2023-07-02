@@ -1,0 +1,10 @@
+*{
+    background-color: rgb(173, 232, 169);
+}
+
+.center::before{
+    content: 'Hello leaners,';
+}
+.center::after{
+    content:'welcome to technical assessment!';
+}
